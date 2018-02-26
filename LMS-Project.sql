@@ -69,32 +69,6 @@ create table Library_Branch (
 		;
 
 
-INSERT into Book 
-			(Title, PublisherName)
-			values
-			('The Lost Tribe'),
-			('The Outsider'),
-			('Duma Key'),
-			('Cujo'),
-			('Night of the Living Dummy'),
-			('Welcome to Dead House'),
-			('Monster Blood'),
-			('Harry Potter and the Sorcerers stone'),
-			('Harry Potter and The Chamber of Secrets'),
-			('The Grapes of Wrath'),
-			('East of Eden'),
-			('Of Mice and Men'),
-			('Intensity'),
-			('Odd Thomas'),
-			('Surrender to the Spirit'),
-			('All American Murder'),
-			('Home Sweet Murder'),
-			('The Butler'),
-			('The Glass Castle'),
-			('Rediscovering America')
-			;
-
-
 			Insert into Book_Authors
 				(BookID, Author_FirstName, Author_LastName)
 				values
